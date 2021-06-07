@@ -1,0 +1,17 @@
+{
+  "name": "yapi-plugin-export-schema",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": ["jsonschema", "export", "yapi plugin"],
+  "homepage": "https://github.com/inceptiongt/yapi-plugin-export-schema",
+  "repository": {"url": "https://github.com/inceptiongt/yapi-plugin-export-schema"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jszip": "^3.6.0"
+  }
+}
