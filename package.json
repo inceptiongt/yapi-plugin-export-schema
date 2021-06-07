@@ -1,6 +1,6 @@
 {
   "name": "yapi-plugin-export-schema",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "keywords": ["jsonschema", "export", "yapi plugin"],
   "homepage": "https://github.com/inceptiongt/yapi-plugin-export-schema",
