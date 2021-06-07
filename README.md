@@ -1,0 +1,1 @@
+# yapi-plugin-export-schema
